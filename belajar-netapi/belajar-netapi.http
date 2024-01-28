@@ -1,0 +1,6 @@
+@belajar_netapi_HostAddress = http://localhost:5148
+
+GET {{belajar_netapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
